@@ -4,8 +4,8 @@ flowgaming:
   login:
     api : /ps/ssw/login
   getToken:
-    username : 114
-    password : Flow760
+    username : 
+    password :  
   #Game
   game:
     api : /ps/game/GameContainer.action
@@ -15,11 +15,11 @@ API:
   url : http://dev-gi.o8888.info
   #getToken
   path : /uaa/oauth/token
-  username : 24k
-  password : 24k
-  grant_type : password
-  bearer : Basic YmI6eUVKSVVERjJJSUxlTW05WTB5amNvUHZpeGF6aTB5T3k=
-  key: KEYKEYKEY
+  username :  
+  password :  
+  grant_type : 
+  bearer :  
+  key:  
   
 transactions:
     #getTransacationUrl
