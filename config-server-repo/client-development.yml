@@ -20,3 +20,9 @@ API:
   grant_type : password
   bearer : Basic YmI6eUVKSVVERjJJSUxlTW05WTB5amNvUHZpeGF6aTB5T3k=
   key: KEYKEYKEY
+  
+transactions:
+    #getTransacationUrl
+  accountsUrl : http://localhost:8081/consume/registeruser?
+  loginUrl : http://localhost:8081/consume/registeruser?
+  processUrl : http://localhost:8081/consume/processtransaction?
