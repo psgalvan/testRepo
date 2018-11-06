@@ -1,20 +1,20 @@
 flowgaming:
-  url: https://lsl.omegasys.eu 
+  url: http://localhost:8085
   #Login
   login:
-    api : /ps/ssw/login
+    api : 
   getToken:
     username : 
     password :  
   #Game
   game:
-    api : /ps/game/GameContainer.action
-    lobby_url: https://hapistar.net
+    api : 
+    lobby_url: 
     
 API:
-  url : http://dev-gi.o8888.info
+  url : 
   #getToken
-  path : /uaa/oauth/token
+  path : 
   username :  
   password :  
   grant_type : 
