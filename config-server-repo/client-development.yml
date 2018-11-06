@@ -1,0 +1,22 @@
+flowgaming:
+  url: https://lsl.omegasys.eu 
+  #Login
+  login:
+    api : /ps/ssw/login
+  getToken:
+    username : 114
+    password : Flow760
+  #Game
+  game:
+    api : /ps/game/GameContainer.action
+    lobby_url: https://hapistar.net
+    
+API:
+  url : http://dev-gi.o8888.info
+  #getToken
+  path : /uaa/oauth/token
+  username : 24k
+  password : 24k
+  grant_type : password
+  bearer : Basic YmI6eUVKSVVERjJJSUxlTW05WTB5amNvUHZpeGF6aTB5T3k=
+  key: KEYKEYKEY
